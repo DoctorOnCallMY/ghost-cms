@@ -1,14 +1,17 @@
 {
     "url": "http://34.143.239.84/cms",
+      "server": {
+        "port": 2368,
+        "host": "127.0.0.1"
+      },
     "database": {
       "client": "mysql",
       "connection": {
         "host": "127.0.0.1",
         "port": 3306,
-        "user": "localhost",
-        "password": "localhost",
-        "database": "ghost_prod"
+      "host": "localhost",
+      "user": "localhost",
+      "database": "ghost_prod"
       }
     }
-    
 }
