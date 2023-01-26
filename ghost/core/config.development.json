@@ -1,5 +1,5 @@
 {
-    "url": "http://34.143.239.84/cms",
+    "url": "http://localhost:2386",
       "server": {
         "port": 2368,
         "host": "127.0.0.1"
