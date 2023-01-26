@@ -13,5 +13,18 @@
       "user": "localhost",
       "database": "ghost_prod"
       }
-    }
+    },
+      "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "systemd",
+  "paths": {
+    "contentPath": "/home/ubuntu/code/ghost-cms"
+  }
 }
