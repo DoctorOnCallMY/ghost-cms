@@ -28,14 +28,14 @@
     "@tryghost/email-events": "0.0.0",
     "@tryghost/errors": "1.2.20",
     "@tryghost/html-to-plaintext": "0.0.0",
-    "@tryghost/kg-default-cards": "6.0.0",
-    "@tryghost/logging": "2.4.0",
+    "@tryghost/kg-default-cards": "10.0.7",
+    "@tryghost/logging": "2.4.16",
     "@tryghost/tpl": "0.1.21",
     "bson-objectid": "2.0.4",
     "@tryghost/validator": "^0.2.0",
     "cheerio": "0.22.0",
     "handlebars": "4.7.7",
     "juice": "8.1.0",
-    "moment-timezone": "0.5.23"
+    "moment-timezone": "0.5.41"
   }
 }
